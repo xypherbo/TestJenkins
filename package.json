@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xypherbo/TestJenkins/issues"
   },
-  "homepage": "https://github.com/xypherbo/TestJenkins#readme"
+  "homepage": "https://github.com/xypherbo/TestJenkins#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
